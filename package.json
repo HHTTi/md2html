@@ -1,0 +1,15 @@
+{
+  "name": "mdtohtml",
+  "version": "1.0.0",
+  "description": "md to html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lqm",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "marked": "^0.8.0"
+  }
+}
